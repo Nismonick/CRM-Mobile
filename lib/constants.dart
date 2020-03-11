@@ -1,0 +1,1 @@
+const APIURL = 'http://palace56.thepalaceus.com/Service/SRT/api/';

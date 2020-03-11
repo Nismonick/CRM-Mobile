@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "logout",
+            "icon": "logout",
+            "text": "Log Out"
+        }
+    ]
+}
